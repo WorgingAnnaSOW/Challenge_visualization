@@ -4,6 +4,8 @@ The visualization of bikes' traffic
 
 # Description of the files
 --Challenge.py is the code of the prediction--
+
+
 --animationGIF.ipynb is the code for the pie-chart animation--
 
 
