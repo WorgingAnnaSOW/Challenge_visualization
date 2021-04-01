@@ -1,7 +1,7 @@
 # Challenge_code
 The visualization of bikes' traffic
 
---the visualisation--
+--the visualisation-code--
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WorgingAnnaSOW/Challenge_visualization/main?filepath=animationGIF.ipynb)
 
 
