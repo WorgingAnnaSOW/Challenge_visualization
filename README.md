@@ -9,6 +9,11 @@ The visualization of bikes' traffic
 --animationGIF.ipynb is the code for the pie-chart animation--
 
 
+
+--the prediction code--
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WorgingAnnaSOW/Challenge_visualization/main?filepath=Challenge.py)
+
+
 --the visualisation-code--
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WorgingAnnaSOW/Challenge_visualization/main?filepath=animationGIF.ipynb)
 
