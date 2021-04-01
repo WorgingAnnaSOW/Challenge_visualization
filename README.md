@@ -1,6 +1,12 @@
 # Challenge_code
 The visualization of bikes' traffic
 
+
+# DESCRIPTION OF FILES
+--Challenge.py is the code of the prediction
+
+
+
 --the visualisation-code--
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WorgingAnnaSOW/Challenge_visualization/main?filepath=animationGIF.ipynb)
 
